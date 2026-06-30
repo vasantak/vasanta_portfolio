@@ -218,7 +218,7 @@ export default function App() {
         </aside>
 
         {/* ================= MIDDLE PANEL (Main Content Area) ================= */}
-        <main className="flex-1 p-4 sm:p-6 lg:p-8 lg:h-[85vh] lg:overflow-y-auto space-y-8 scrollbar-thin">
+        <main className="flex-1 p-4 sm:p-6 lg:p-8 lg:h-[125vh] lg:overflow-y-auto space-y-8 scrollbar-thin">
 
           {/* Hero Section */}
           <section id="home" className="bg-white rounded-2xl p-6 sm:p-10 relative overflow-hidden shadow-sm flex flex-col md:flex-row items-center justify-between min-h-[340px]">
